@@ -3,6 +3,7 @@
 ### Languages
 
 <p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C++" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/polyglotprog/c-logo/refs/heads/main/public/assets/images/c-logo.png" alt="C" width="50" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
