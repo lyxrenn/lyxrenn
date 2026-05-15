@@ -9,7 +9,6 @@
 - WinAPI & System Programming  
 - Game Security Research  
 - Anti-Cheat Analysis  
-- Debugging & Binary Analysis  
 
 ### My Languages
 <p align="left">
