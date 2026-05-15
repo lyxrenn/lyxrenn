@@ -1,16 +1,15 @@
 ## Me (akgvnx)
-- 17 y/o reverse engineering enthusiast from Türkiye.
+- 17 y/o Reverse Engineering enthusiast from Türkiye
 
 ## Interests
 - Reverse Engineering  
 - Windows Internals  
-- Low-Level Programming (C /C++ / ASM x86 & x64)
-- Python Development
-- Python Reverse Engineering
-- WinAPI & System Programming
+- Low-Level Programming (C, C++, x86/x64 Assembly)  
+- Python Development for Reverse Engineering & Tooling
+- WinAPI & System Programming  
 - Game Security Research  
 - Anti-Cheat Analysis  
-- Debugging & Binary Analysis
+- Debugging & Binary Analysis  
 
 ## My Languages
 <p align="left">
