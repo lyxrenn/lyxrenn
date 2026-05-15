@@ -6,9 +6,8 @@
 - Windows Internals  
 - Low-Level Programming (C, C++, x86/x64 Assembly)  
 - Python Development for Reverse Engineering & Tooling
-- WinAPI & System Programming  
-- Game Security Research  
-- Anti-Cheat Analysis  
+- Game Security Research & Anti-Cheat Analysis
+- Software Protection
 
 ### My Languages
 <p align="left">
