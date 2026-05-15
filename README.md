@@ -3,11 +3,11 @@
 
 ### Interests
 - Reverse Engineering  
-- Windows Internals  
+- Windows Internals
+- Software Protection
 - Low-Level Programming (C, C++, x86/x64 Assembly)  
 - Python Development for Reverse Engineering & Tooling
 - Game Security Research & Anti-Cheat Analysis
-- Software Protection
 
 ### My Languages
 <p align="left">
