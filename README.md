@@ -5,7 +5,7 @@
 - Reverse Engineering  
 - Windows Internals  
 - Low-Level Programming (C/C++/ASM)  
-- Python Tool Development  
+- Python Development  
 - WinAPI & System Programming  
 - Game Security Research  
 - Anti-Cheat Analysis  
