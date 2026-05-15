@@ -1,5 +1,5 @@
 ## Me (akgvnx)
-17 y/o reverse engineering enthusiast from Türkiye.
+- 17 y/o reverse engineering enthusiast from Türkiye.
 
 ## Interests
 - Reverse Engineering  
@@ -10,8 +10,8 @@
 - Game Security Research  
 - Anti-Cheat Analysis  
 - Debugging & Binary Analysis
----
-### My Languages
+
+## My Languages
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="50"/>
