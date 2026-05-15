@@ -1,5 +1,5 @@
 ### Me (akgvnx)
-- 17 y/o Software Developer and Reverse Engineering enthusiast from Türkiye
+- 17 y/o Reverse Engineering enthusiast & Software Developer from Türkiye
 
 ### Interests
 - Reverse Engineering  
