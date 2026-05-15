@@ -4,9 +4,9 @@
 ## Interests
 - Reverse Engineering  
 - Windows Internals  
-- Low-Level Programming (C/C++/ASM)  
+- Low-Level Programming (C /C++ / ASM x86 & x64)
 - Python Development  
-- WinAPI & System Programming  
+- WinAPI & System Programming
 - Game Security Research  
 - Anti-Cheat Analysis  
 - Debugging & Binary Analysis
