@@ -1,7 +1,7 @@
-## Me (akgvnx)
+### Me (akgvnx)
 - 17 y/o Reverse Engineering enthusiast from Türkiye
 
-## Interests
+### Interests
 - Reverse Engineering  
 - Windows Internals  
 - Low-Level Programming (C, C++, x86/x64 Assembly)  
@@ -11,7 +11,7 @@
 - Anti-Cheat Analysis  
 - Debugging & Binary Analysis  
 
-## My Languages
+### My Languages
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="50"/>
