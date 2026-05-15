@@ -1,4 +1,4 @@
-## Me (akgvnx)[https://github.com/akgvnx/akgvnx/tree/main]
+## Me (akgvnx)
 17 y/o reverse engineering enthusiast from Türkiye.
 
 ## Interests
