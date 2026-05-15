@@ -1,3 +1,16 @@
+## Me (akgvnx)[https://github.com/akgvnx/akgvnx/tree/main]
+17 y/o reverse engineering enthusiast from Türkiye.
+
+## Interests
+- Reverse Engineering  
+- Windows Internals  
+- Low-Level Programming (C/C++/ASM)  
+- Python Tool Development  
+- WinAPI & System Programming  
+- Game Security Research  
+- Anti-Cheat Analysis  
+- Debugging & Binary Analysis  
+
 ### My Languages
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="50"/>
