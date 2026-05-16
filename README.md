@@ -6,7 +6,7 @@
 - Windows Internals
 - Software Protection
 - Low-Level Programming (C, C++, x86/x64 Assembly)  
-- Python Reverse Engineering & Programming
+- Python Programming & Reverse Engineering
 
 ### My Languages
 <p align="left">
