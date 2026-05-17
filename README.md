@@ -1,5 +1,5 @@
 ### Me
-- 17 y/o Reverse Engineering enthusiast & Software Developer from Türkiye
+- 17 y/o Reverse Engineering enthusiast & Software Developer
 
 ### Interests
 - Reverse Engineering  
