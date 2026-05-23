@@ -1,5 +1,5 @@
 ### Me
-- 17 y/o Reverse Engineering enthusiast & Software Developer
+- 17 y/o Reverse Engineer & Software Developer
 
 ### Interests
 - Reverse Engineering  
