@@ -1,5 +1,5 @@
 ### Me
-- x
+- 17 y/o reverse engineer n software dev.
 
 ### Languages
 <p align="left">
