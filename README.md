@@ -1,5 +1,5 @@
 ### Me
-- im 17 y/o dev, you don't need to know anything else about me.
+- x
 
 ### Languages
 <p align="left">
