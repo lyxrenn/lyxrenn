@@ -1,12 +1,5 @@
 ### Me
-- 17 y/o Reverse Engineer & Software Developer
-
-### Interests
-- Reverse Engineering  
-- Windows Internals
-- Software Protection
-- Low-Level Programming 
-- Python Programming & Reverse Engineering
+- im 17 y/o, you don't need to know anything else about me.
 
 ### Languages
 <p align="left">
